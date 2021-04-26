@@ -21,3 +21,6 @@ I will not remove sites that contain user data and are returning `server:cloudfl
 You're welcome to submit a PR to include a link to a blog post for your users, e.g.:
 
 - example.com \[no evidence of data leaked](https://example.com/blog/cloudflare-data-leak)
+https://www.gatekala.ir/
+شرکت بازرگانی گیت کالا با بیش از 15 سال سابقه در ضمینه واردات سخت افزار کامپیوتر-لپ تاپ-استوک و نو  و لوازم خانگی دیجیتال مانند تلویزیون-لباسشویی-ظرفشویی و ساز موسیقی - شما رو به دیدن از  سایت شرکت و بازدید از قیمت ها دعوت میکنه
+https://www.gatekala.ir/
